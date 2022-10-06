@@ -1,0 +1,86 @@
+body {
+    background-color: #F5EFE6;
+}
+
+.navbar {
+    padding-left: 100px;
+}
+
+.nav-link {
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+
+}
+
+.card {
+    width: 20%;
+    margin: 30px;
+    padding: 15px;
+    background-color: #E8DFCA;
+}
+
+.card-title1 {
+    color: #7895B2;
+    font-size: 25px;
+}
+
+.btn {
+    background-color: #AEBDCA
+}
+
+
+.card-text {
+    color: #555;
+
+}
+
+.top-box {
+    height: 100vh;
+    background-color: white;
+}
+
+.top-box-img {
+    width: 100%;
+    margin-top: 150px;
+}
+
+.container-left {
+    text-align: center;
+    margin-top: 250px;
+}
+
+h2 {
+
+    font-size: 3rem;
+}
+
+.menu {
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 3rem;
+}
+
+.footer {
+
+    /* position: absolute;
+    bottom: 0; */
+    height: 10vh;
+
+    justify-content: center;
+
+    display: flex;
+    align-content: flex-end;
+    align-items: center;
+    background-color: #7895B2;
+
+
+    width: 100%;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
